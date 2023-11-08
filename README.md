@@ -1,10 +1,10 @@
-# AppPokemonGo
+# SpaPokemonGo
 
 ## Exercício
-Criar um projeto chamado app-pokemon-go
+Criar um projeto chamado spa-pokemon-go
 
 ```shell
-ng new app-pokemon-go
+ng new spa-pokemon-go
 ```
 
 Este projeto deverá seguir a seguinte estrutura:
