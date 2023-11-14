@@ -33,7 +33,7 @@ ng g c pokemon/pokemon-detail
 
 4. location-area (m)
 ```shell
-ng g m location-area
+ng g m location-area --routing
 ```
 4.1.location-area-detail (c)
 ```shell
